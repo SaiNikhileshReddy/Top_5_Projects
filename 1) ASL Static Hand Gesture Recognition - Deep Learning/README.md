@@ -6,4 +6,6 @@ I have made a application which can help them achieve one step towards connectin
 
 ## Demo Application
 
-<div style="text-align:center"><img width="600" height="500"  src="Images/ASL_Application_Demo.gif"></div>
+<p align="center">
+  <img src="Images/ASL_Application_Demo.gif" />
+</p>
