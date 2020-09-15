@@ -5,7 +5,9 @@ In present world, There are many people who are facing **difficulty expressing f
 I have made a application which can help them achieve one step towards connecting to others. This application converts **American Sign Language characters to English Alpabets**.
 
 ## Demo Application
-
-<p align="center">
-  <img src="Images/ASL_Application_Demo.gif" />
-</p>
+<div>
+  <p>
+    <img align="left" src="Images/ASL_Application_Demo.gif">
+    <img align="right" src="Images/NIDCD-ASL-hands-2014.jpg">
+  </p>
+</div>  
