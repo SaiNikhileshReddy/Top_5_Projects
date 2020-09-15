@@ -14,10 +14,10 @@ finding a reduced dimensional representation, emphasizing on the strongest
 relationship and eliminating the ‘noise’ involved.
 References -
 
-I 2011, Latent Semantic Analysis, Bhagwant, accessed 7 May 2020, <
+- 2011, Latent Semantic Analysis, Bhagwant, accessed 7 May 2020, <
 https://technowiki.wordpress.com/2011/08/27/latent-semantic-analysis-lsa-tutorial/>.
 
-II 2017, Topic Modeling with NMF and SVD, accessed 5 May
+- 2017, Topic Modeling with NMF and SVD, accessed 5 May
 2020, <https://github.com/fastai/numerical-linear-algebra/blob/master/README.md>.
 
 Team Members -
