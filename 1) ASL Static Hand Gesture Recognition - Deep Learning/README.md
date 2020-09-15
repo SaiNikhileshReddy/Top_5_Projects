@@ -41,7 +41,7 @@ I have made a application which can help them achieve one step towards connectin
   <img width="450" height="350" align="right" src="Images/loss_plot.png ">
 </div>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Skills Learnt
 
