@@ -22,6 +22,6 @@ https://technowiki.wordpress.com/2011/08/27/latent-semantic-analysis-lsa-tutoria
 2020, <https://github.com/fastai/numerical-linear-algebra/blob/master/README.md>.
 
 ## Team Members -
-Kode Jai Surya
-Bhuvanashree Murugadoss
+Kode Jai Surya <br/>
+Bhuvanashree Murugadoss <br/>
 Karna Sai Nikhilesh Reddy
