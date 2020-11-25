@@ -1,4 +1,4 @@
-# JustForDSC_5_Projects
+# Top_5_Projects
 
 Thank you for coming this far to check out my Github profile and this repository.
 
